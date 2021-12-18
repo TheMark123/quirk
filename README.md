@@ -78,7 +78,7 @@ Some amazing folks have helped build the Quirk you see today.
 - [@micheleriva](https://github.com/micheleriva) for the Italian translation 🇮🇹
 - [@Jolg42](https://github.com/jolg42) for the French translation 🇫🇷
 - [@Buricescu](https://github.com/Buricescu) for the Romanian translation 🇷🇴
-
+- [mark for the american translation 🇷🇴
 ## Running Locally
 
 Quirk is built on React Native and therefore assumes you have [node](https://nodejs.org/en/) installed.
